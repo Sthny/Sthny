@@ -2,9 +2,11 @@
 <h1 align="center">Hola 👋, mi nombre es Sthefany Contreras</h1>
 <h3 align="center">Desarrolladora de aplicaciones</h3>
 
-- Actualmente estoy trabajando en un proyecto personal, usando JAVA como lemguaje personal y usando Firebase para la parte de base de datos. [gestion-tienda](https://github.com/Sthny/gestion-tienda.git)
+Estoy en busca de mi primera oportunidad laboral, cuento con experiencia sólida en Java principalmente aunque conozco muchos otros lenguajes donde también he programado, estoy emocionada por aprender y crecer en esta industria en constante cambio. ¿Tienes una oportunidad que pueda aprovechar?
 
-- 🌱 Actualmente estoy aprendiendo **Kotlin**
+- 🔭 Actualmente estoy trabajando en un proyecto personal, usando JAVA como lemguaje personal y usando Firebase para la parte de base de datos. [gestion-tienda](https://github.com/Sthny/gestion-tienda.git)
+
+- 🌱 Tambi estoy aprendiendo **Kotlin**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
