@@ -6,7 +6,7 @@ Estoy en busca de mi primera oportunidad laboral, cuento con experiencia sólida
 
 - 🔭 Actualmente estoy trabajando en un proyecto personal, usando JAVA como lemguaje personal y usando Firebase para la parte de base de datos. [gestion-tienda](https://github.com/Sthny/gestion-tienda.git)
 
-- 🌱 Tambi estoy aprendiendo **Kotlin**
+- 🌱 Tambien estoy aprendiendo **Kotlin**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
