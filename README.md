@@ -2,7 +2,7 @@
 <h1 align="center">Hola 👋, mi nombre es Sthefany Contreras</h1>
 <h3 align="center">Desarrolladora Junior</h3>
 
-Soy una programadora Junior, cuento con experiencia sólida en Java principalmente aunque conozco otros lenguajes donde también he programado, estoy emocionada por aprender y crecer en esta industria en constante cambio. ¿Tienes una oportunidad que pueda aprovechar?
+Cuento con experiencia sólida en Java principalmente aunque conozco otros lenguajes donde también he programado, estoy emocionada por aprender y crecer en esta industria en constante cambio. ¿Tienes una oportunidad que pueda aprovechar?
 
 - 🔭 Actualmente trabajo en la empresa Redcom Cibérnetico como analista de datos, desarrollando soluciones de inteligencia de negocio mediante Power BI, creando dashboards interactivos y reportes.
 
